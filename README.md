@@ -3,7 +3,8 @@
 I'm a french student who like programming a lot, especially video games, softwares or some small hacking stuff just for fun. And I'm :
 - 👨‍🎓 currently in my final year studying Computer Science Engineering at <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> in France 🇫🇷
 - 🚀 actively seeking a six-month internship to culminate my studies, ideally within the video game industry.
-- 🌱 exploring Godot and Aseprite as part of my learning journey.
+- 🌱 exploring Godot and Aseprite as part of  my learning journey.
+
 
 <!--
 **SkyMound/SkyMound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,18 +27,39 @@ Below are some of the prominent technologies I've utilized or had experience wit
 
 **Programming Languages**
 
-<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />|<img alt="C++" title="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|--|
+<div>
+ <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
+ <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
+ <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+ <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+ <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
+ <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
+ <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+ <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+</div>
+&nbsp
 
 **Game Engine & Game related Tools**
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px" title="Unity"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50px" title="Godot"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50px" title="Unreal Engine"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50px" title="Blender"/>
+ <img alt="Aseprite" title="Aseprite" width="50px" src="https://raw.githubusercontent.com/aseprite/aseprite/main/data/icons/ase64.png">
+ <img alt="Gimp" title="Gimp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+</div>
+&nbsp
 
-<img title="Unity" alt="Unity" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />|<img alt="Godot" title="Godot" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/godot/godot.png">|<img title="Unreal Engine" alt="Unreal Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/unreal-engine/unreal-engine.png" />|<img alt="Blender" title="Blender" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png">|<img alt="Aseprite" title="Aseprite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/180px-Logo_Aseprite.svg.png">
-|--|--|--|--|--|
+**Frameworks**
 
-**Other Tools**
-
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />|<img alt="Godot" title="Godot" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">|<img title="Unreal Engine" alt="Unreal Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png" />|<img alt="Blender" title="Blender" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png">|<img alt="Aseprite" title="Aseprite" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|--|
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" title="NodeJS"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px" title="DotNet"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px" title="Arduino"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" title="AngularJS"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50px" title="Ionic"/>
+</div>
+&nbsp
 
 ## Projects 💡
 
