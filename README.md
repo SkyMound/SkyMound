@@ -43,13 +43,23 @@ Below are some of the prominent technologies I've utilized or had experience wit
 
 I'd love to share some of my cherished projects that I've worked on and are available on GitHub.
 
-### ConvergenceToolbox & ConvergenceRandomizer
+### <a href="https://convrgencegame.com">Convergence</a>'s projects
 
-I absolutely adore <a href="https://convrgencegame.com">Convergence</a>, a cinematic platformer that captivated me so much I was driven to elevate its experience. <a href="https://github.com/SkyMound/ConvergenceToolbox">ConvergenceToolbox</a> aims to provide several tools and features to enhance his speedrunning experience. And <a href="https://github.com/SkyMound/ConvergenceRandomizer">ConvergeceRandomizer</a> is a room randomizer currently under development. Both uses a mono injector to inject Gameobject into the game.
+I absolutely adore Convergence, a cinematic platformer that captivated me so much I was driven to elevate its experience. ConvergenceToolbox aims to provide several tools and features to enhance his speedrunning experience. And ConvergeceRandomizer is a room randomizer currently under development. Both uses a mono injector to inject Gameobject into this Unity game.
+
+<p align="right">
+ <a href="https://github.com/SkyMound/ConvergenceToolbox">ConvergenceToolbox</a>&nbsp;
+ <a href="https://github.com/SkyMound/ConvergenceRandomizer">ConvergenceRandomizer</a>
+</p>
 
 ### Amuri 
 
-<a href="https://github.com/SkyMound/Amuri">Amuri</a> is a puzzle platformer game made during a Game Jam with the theme :
+It is a puzzle platformer game made during a Game Jam with the theme :
 >Every death is meaningful
 
-In the game, you assume the role of Amuri, a young girl on a quest to find her father. To progress through the levels, you must skillfully switch between the real world and the dream world. Experience this adventure by playing it <a href="https://skymound.github.io/Amuri/">here</a>.
+In the game, you assume the role of Amuri, a young girl on a quest to find her father. To progress through the levels, you must skillfully switch between the real world and the dream world.
+
+<p align="right">
+ <a href="https://skymound.github.io/Amuri/">Play it on Browser</a>&nbsp;
+ <a href="https://github.com/SkyMound/Amuri">Source Code</a>
+</p>
