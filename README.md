@@ -85,3 +85,11 @@ In the game, you assume the role of Amuri, a young girl on a quest to find her f
  <a href="https://skymound.github.io/Amuri/">Play it on Browser</a>&nbsp;
  <a href="https://github.com/SkyMound/Amuri">Source Code</a>
 </p>
+
+### Glimmer
+
+Also done during a game jam. This time we had to take inspiration from a thesis of a doctoral student or researcher. We chose the thesis on optical ring resonators from a poetic point of view of the theme. You play as Glim, a photon trapped in an optical ring resonator who will therefore try to escape.
+
+<p align="right">
+ <a href="https://github.com/SkyMound/PhotonJam">Coming soon</a>
+</p>
