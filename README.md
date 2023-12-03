@@ -56,6 +56,7 @@ Below are some of the prominent technologies I've utilized or had experience wit
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" title="NodeJS"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px" title="DotNet"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px" title="Arduino"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50px" title="Android Studio"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" title="AngularJS"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50px" title="Ionic"/>
 </div>
@@ -92,4 +93,13 @@ Also done during a game jam. This time we had to take inspiration from a thesis 
 
 <p align="right">
  <a href="https://github.com/SkyMound/PhotonJam">Coming soon</a>
+</p>
+
+### Badevel Data Hub
+
+This Unity project belongs to an overall energy transition project for the city of Badevel. This program aims to provide a digital twin of the city, with 3D modeling and live visualization of data
+from electronic boards (ESP32). It includes a complete architecture with a NodeJS backend, a Cassandra database and an Unity executable.
+
+<p align="right">
+ <a href="https://www.youtube.com/watch?v=IFl28Va2NRs">Promotional Video</a>
 </p>
