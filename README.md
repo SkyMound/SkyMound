@@ -1,8 +1,11 @@
 <h1 align="center">Hey, I'm Tobias 👋</h1>
 
 😊 I like programming a lot, especially video games, softwares or some small hacking stuff just for fun.
+
 👨‍🎓 I recently graduated with a degree in Computer Science Engineering in France 🇫🇷
+
 🚀 I am actively seeking a software engineering position where I can apply my skills and contribute to exciting projects.
+
 🌱 Currently, I'm exploring Godot and the magic of Shader as part of my ongoing learning journey.
 
 
