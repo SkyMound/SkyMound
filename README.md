@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Tobias 👋</h1>
 
-I'm a french student who like programming a lot, especially video games, softwares or some small hacking stuff just for fun. And I'm :
-- 👨‍🎓 currently in my final year studying Computer Science Engineering at <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a> in France 🇫🇷
-- 🚀 actively seeking a six-month internship to culminate my studies, ideally within the video game industry.
-- 🌱 exploring Godot and Aseprite as part of  my learning journey.
+😊 I like programming a lot, especially video games, softwares or some small hacking stuff just for fun.
+👨‍🎓 I recently graduated with a degree in Computer Science Engineering in France 🇫🇷
+🚀 I am actively seeking a software engineering position where I can apply my skills and contribute to exciting projects.
+🌱 Currently, I'm exploring Godot and the magic of Shader as part of my ongoing learning journey.
 
 
 <!--
