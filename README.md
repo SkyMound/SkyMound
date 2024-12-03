@@ -6,7 +6,7 @@
 
 🚀 I am actively seeking a software engineering position where I can apply my skills and contribute to exciting projects.
 
-🌱 Currently, I'm exploring Godot and the magic of Shader as part of my ongoing learning journey.
+🌱 Currently, I'm exploring Godot and the magic of Shader as part of my ongoing learning journey. You can find some of my game on my [itch page](https://skymound.itch.io/).
 
 
 <!--
